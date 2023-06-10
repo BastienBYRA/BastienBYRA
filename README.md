@@ -1,4 +1,4 @@
-<div style="margin-top:-20px;" align="center">
+<div style="margin-top:-30px;" align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUwMGE3MGNhOGU4MGFkMzg2ZWU0MzM3N2VjN2ZiMjBjZjY3NmY3NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
 </div>
 
@@ -9,7 +9,7 @@
   <a href="mailto:byra.bastien@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:byra.bastien@gmail.com" alt="GMAIL Badge"/>
   </a>
-  <h2 style="margin-top:10px;">👋 What's up~</h2>
+  <h3>👋 What's up~</h3>
 </div>
 
 ### Moi, c'est Bastien BYRA 😎
@@ -19,8 +19,7 @@
 - En Alternance chez [ACTEON](https://www.acteongroup.com/en/) 🏢
 - [Mon Portfolio 🌐](https://bastienbyra.github.io/Portfolio/)
 
-<hr>
-## 🛠️ Mes <span style="color:#7438EC">Skills</span>.
+## 🛠️ Mes Skills.
 
 ### 👉 Ma <span style="color:#F25244">Stack</span> de <span style="color:#F25244">confiance</span>
 
@@ -172,7 +171,7 @@
 ---
 
 <div align="center">
-<p>Besoin d'un site, d'une API, d'un logiciel, d'une application mobile ou d'un script ? Je suis disponible pour vous aider !</p>
+<p>Besoin d'un site web, d'une API, d'un logiciel, d'une application mobile ou d'un script ? Je suis disponible pour vous aider !</p>
   <a href="https://www.linkedin.com/in/bastien-byra-848998209/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

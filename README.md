@@ -16,7 +16,7 @@
 
 - Je suis un développeur Full Stack 🚀
 - Actuellement en formation en licence professionnel à l'Université de Bordeaux en Licence DAWIN 🎓
-- En Alternance chez [ACTEON](https://www.acteongroup.com/en/) (Developpeur Full Stack C#) 🏢
+- En Alternance chez [ACTEON](https://www.acteongroup.com/en/) (Developpeur Full Stack C#, ASP.NET MVC) 🏢
 - [Mon Portfolio 🌐](https://bastienbyra.github.io/Portfolio/)
 
 ## 🛠️ Mes Skills.

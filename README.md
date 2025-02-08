@@ -21,8 +21,6 @@
 
 ### Mes skills
 
-### Mes skills
-
 | Bases             | Conteneurisation & Orchestration | CI/CD          | Infra as Code & Provisioning | Monitoring               | Database    | Programmation      | Serveurs Web  |
 |------------------|--------------------------------|---------------|----------------------------|-------------------------|------------|-------------------|--------------|
 | Unix / Linux    | Docker                         | GitLab CI     | Terraform                  | Prometheus (et PromQL)  | PostgreSQL | Python            | Nginx        |

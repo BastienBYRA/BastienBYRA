@@ -21,12 +21,16 @@
 
 ### Mes skills
 
-| Bases             | Conteneurisation & Orchestration | CI/CD          | Infra as Code & Provisioning | Monitoring               | Database    | Programmation      |
-|------------------|--------------------------------|---------------|----------------------------|-------------------------|------------|-------------------|
-| Unix / Linux    | Docker                         | GitLab CI     | Terraform                  | Prometheus (et PromQL)  | PostgreSQL | Python            |
-| Git            | Kubernetes                      | GitHub Actions | Ansible                    | Loki & Promtail        | MySQL      | JavaScript        |
-| SQL            | Helm                            |               | Shell scripting            | Grafana                 |            | C#                |
-| SSH            |                                |               |                            | Alertmanager            |            | Shell             |
-|               |                                |               |                            |                          |            | Go (ou Golang)    |
+### Mes skills
+
+| Bases             | Conteneurisation & Orchestration | CI/CD          | Infra as Code & Provisioning | Monitoring               | Database    | Programmation      | Serveurs Web  |
+|------------------|--------------------------------|---------------|----------------------------|-------------------------|------------|-------------------|--------------|
+| Unix / Linux    | Docker                         | GitLab CI     | Terraform                  | Prometheus (et PromQL)  | PostgreSQL | Python            | Nginx        |
+| Git            | Kubernetes                      | GitHub Actions | Ansible                    | Loki & Promtail        | MySQL      | JavaScript        | Apache       |
+| SQL            | Helm                            |               | Shell scripting            | Grafana                 |            | C#                |              |
+| SSH            |                                |               |                            | Alertmanager            |            | Shell             |              |
+|               |                                |               |                            |                          |            | Go (ou Golang)    |              |
+
+Et probablement plus encore 😉
 
 **Note :** Je fais un unique gros tableau car faire un tableau pour chaque catégorie rend ce README absolument imbuvable

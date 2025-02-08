@@ -21,53 +21,12 @@
 
 ### Mes skills
 
-#### 👉 Les bases
-| Nom |
-| --- |
-| Unix / Linux |
-| Git |
-| SQL |
-| SSH |
+| Bases             | Conteneurisation & Orchestration | CI/CD          | Infra as Code & Provisioning | Monitoring               | Database    | Programmation      |
+|------------------|--------------------------------|---------------|----------------------------|-------------------------|------------|-------------------|
+| Unix / Linux    | Docker                         | GitLab CI     | Terraform                  | Prometheus (et PromQL)  | PostgreSQL | Python            |
+| Git            | Kubernetes                      | GitHub Actions | Ansible                    | Loki & Promtail        | MySQL      | JavaScript        |
+| SQL            | Helm                            |               | Shell scripting            | Grafana                 |            | C#                |
+| SSH            |                                |               |                            | Alertmanager            |            | Shell             |
+|               |                                |               |                            |                          |            | Go (ou Golang)    |
 
-#### 👉 Conteneurisation et Orchestration
-| Nom |
-| --- |
-| Docker |
-| Kubernetes |
-| Helm |
-
-#### 👉 CI/CD
-| Nom |
-| --- |
-| GitLab CI |
-| GitHub Actions |
-
-#### 👉 Outils d’infrastructure as code et approvisionnement de l'infrastructure
-| Nom |
-| --- |
-| Terraform |
-| Ansible |
-| Shell scripting |
-
-#### 👉 Monitoring
-| Nom |
-| --- |
-| Prometheus (et PromQL) |
-| Loki & Promtail |
-| Grafana |
-| Alertmanager |
-
-#### 👉 Database
-| Nom |
-| --- |
-| PostgreSQL |
-| MySQL |
-
-#### 👉 Programmation
-| Nom |
-| --- |
-| Python |
-| JavaScript |
-| C# |
-| Shell |
-| Go (ou Golang) |
+**Note :** Je fais un unique gros tableau car faire un tableau pour chaque catégorie rend ce README absolument imbuvable
